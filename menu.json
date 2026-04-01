@@ -1,0 +1,22 @@
+{
+    "restaurant_name": "Place of unique Taste",
+    "location": "E7, Islamabad",
+    "opening_hours": "11am to 2am daily",
+    "phone": "051-1234567",
+    "menu": [
+        {"item": "Chicken Karahi", "price": 850},
+        {"item": "Mutton Karahi", "price": 1200},
+        {"item": "Beef Karahi", "price": 1200},
+        {"item": "Daal Makhni", "price": 350},
+        {"item": "Biryani", "price": 500},
+        {"item": "Pulao", "price": 500},
+        {"item": "Naan", "price": 30},
+        {"item": "Raita", "price": 80},
+        {"item": "Cold Drinks", "price": 60},
+        {"item": "Fresh Juice", "price": 300}
+    ],
+    "booking_rules": {
+        "max_people": 10,
+        "advance_required_for": 5
+    }
+}
